@@ -1,0 +1,101 @@
+id,nombre,habilidades,valoracion,experiencia,tarifa,ubicacion,telegram_id,telefono,disponibilidad,created_at
+1,Raimundo Crespo Álvaro,"{""oficios varios""}",4.2,8,28,Castilla,@vcastells,+34 844 30 60 98,En vacaciones,2024-05-09T23:35:33.959056
+2,Visitación Capdevila Hernandez,"{""cocinero"",""albanil"",""pintura""}",4.9,10,82,Castilla,@hgalvan,+34982 18 17 14,Ocupado 2 dias,2024-12-12T23:35:33.959056
+3,Roldán Fuentes Valle,"{""plomero"",""jardinero"",""mercado""}",4.4,9,88,envigado,@nazaret00,+34 974558529,En vacaciones,2024-05-18T23:35:33.959056
+4,Cristian Montserrat,"{""mecanico"",""mandados""}",3.8,4,86,envigado,@tprat,+34985 66 37 82,Disponible proximo dia,2025-02-11T23:35:33.959056
+5,Emilia Vall Lladó,"{""modisteria"",""cocinero"",""programador"",""plomero"",""albanil""}",3.6,7,94,Robledo,@rguitart,+34 981875036,En vacaciones,2025-03-26T23:35:33.959056
+6,Narcisa Azorin Mariscal,"{""albanil"",""mecanico"",""descargar"",""programador""}",4.6,8,28,guayabal,@gordilloolivia,+34 925 97 34 80,Disponible ahora,2025-02-09T23:35:33.959056
+7,Eusebio Oliva Cortes,"{""mesero"",""reparacion"",""pintura""}",3.8,9,95,guayabal,@dimas65,+34 848 264 489,Ocupado 2 dias,2024-08-04T23:35:33.959056
+8,Felipa Borrego Dueñas,"{""albanil"",""modisteria"",""escolta"",""descargar""}",4.1,1,56,santacruz,@irisropero,+34877607810,Ocupado 2 dias,2024-12-03T23:35:33.959056
+9,Andrés Felipe Guadalupe Iniesta Robles,"{""descargar"",""mecanico"",""pintura""}",5.0,1,35,Castilla,@vmir,+34702 59 75 90,Ocupado 2 dias,2024-11-29T23:35:33.959056
+10,Luisina Montesinos Tur,"{""jardinero"",""mecanico""}",3.6,4,79,Manrique,@lpulido,+34732 940 738,Disponible ahora,2024-07-01T23:35:33.959056
+11,Hilario Olmedo Carbajo,"{""musica"",""oficios varios"",""mesero""}",3.6,5,49,envigado,@fmontana,+34 980 341 014,En vacaciones,2024-06-07T23:35:33.959056
+12,Isabel Clavero,"{""reparacion"",""mesero"",""oficios varios"",""jardinero""}",4.3,5,86,guayabal,@eugenio88,+34946946161,En vacaciones,2024-10-17T23:35:33.959056
+13,Amado Modesto Olmo Alberto,"{""oficios varios"",""Análisis de Datos"",""mecanico"",""mercado""}",4.6,6,74,Castilla,@amadoatienza,+34 923 16 46 31,Disponible proximo dia,2025-01-26T23:35:33.959056
+14,Armando Bayona Julián,"{""aseo"",""oficios varios"",""albanil"",""mesero""}",4.6,6,68,Robledo,@omar38,+34 945532759,Disponible proximo dia,2024-10-21T23:35:33.959056
+15,Gerónimo del Salgado,"{""programador""}",4.0,7,97,Manrique,@evigil,+34 879461591,Disponible proximo dia,2024-06-10T23:35:33.959056
+16,Lupe Somoza Azorin,"{""goteras"",""cantante"",""cocinero"",""mandados""}",3.6,3,28,Robledo,@aledesma,+34927 458 758,Ocupado 2 dias,2024-08-21T23:35:33.960051
+17,Albano Romeu Palma,"{""programador"",""mercado""}",4.6,8,23,Manrique,@tmena,+34824 312 831,Disponible proximo dia,2024-08-30T23:35:33.960051
+18,Amada del Águila,"{""aseo"",""mesero"",""modisteria"",""albanil""}",4.8,7,90,Poblado,@gimenezbrunilda,+34 882 887 519,Ocupado 2 dias,2024-07-15T23:35:33.960051
+19,Régulo Godoy Francisco,"{""mercado"",""modisteria"",""escolta""}",4.9,10,75,Manrique,@ortizsaturnina,+34985 109 160,Disponible ahora,2025-02-07T23:35:33.960051
+20,Nilda Celestina Bilbao Osorio,"{""mercado""}",4.9,6,26,Castilla,@ramonaroldan,+34972 24 30 92,Disponible proximo dia,2025-03-30T23:35:33.960051
+21,Leocadia Fabiana Lozano Millán,"{""reparacion"",""musica"",""aseo"",""mercado""}",3.6,5,84,santacruz,@xarteaga,+34 874 65 95 51,Disponible proximo dia,2024-09-19T23:35:33.960051
+22,Eutimio Vizcaíno Mayol,"{""mesero"",""albanil"",""pintura"",""programador"",""musica""}",4.2,5,26,itagui,@calista82,+34983 178 770,Disponible proximo dia,2025-03-14T23:35:33.960051
+23,Héctor de Calderón,"{""modisteria""}",4.0,5,87,envigado,@aracelicabello,+34734 592 208,En vacaciones,2025-04-22T23:35:33.960051
+24,Lorena Calvo Malo,"{""mesero"",""reparacion"",""goteras"",""plomero"",""mandados""}",4.9,10,71,envigado,@portaafrica,+34901 99 94 02,Disponible ahora,2024-10-13T23:35:33.960051
+25,Salvador Morante Balaguer,"{""oficios varios"",""Análisis de Datos"",""jardinero"",""escolta""}",3.8,10,46,Poblado,@rolando78,+34 931 48 09 16,Disponible proximo dia,2024-07-23T23:35:33.960051
+26,África Roda Espejo,"{""mandados"",""pintura""}",4.2,2,68,Robledo,@falconevangelina,+34882420361,Disponible ahora,2025-02-13T23:35:33.960051
+27,Alba Prada-Boada,"{""reparacion"",""oficios varios"",""aseo"",""pintura""}",4.8,1,36,santacruz,@lilia07,+34978 85 19 88,Disponible proximo dia,2024-06-05T23:35:33.960051
+28,Abilio Melchor Viana Espada,"{""mesero"",""cantante"",""pintura"",""albanil""}",4.0,6,62,santacruz,@soledadllamas,+34 902 618 873,En vacaciones,2024-12-09T23:35:33.960051
+29,Angélica Becerra Santamaría,"{""Análisis de Datos""}",4.2,1,22,Castilla,@mauricioaragon,+34 841095398,Disponible ahora,2024-07-04T23:35:33.960051
+30,Jose Montes,"{""Análisis de Datos"",""goteras""}",4.5,1,68,guayabal,@wleon,+34976949024,Disponible proximo dia,2024-10-20T23:35:33.960051
+31,Víctor Ale Murcia Velasco,"{""plomero"",""mecanico"",""mesero"",""mercado""}",4.4,10,66,Manrique,@miriamgilabert,+34984940947,En vacaciones,2024-12-04T23:35:33.960051
+32,Esteban Parejo,"{""descargar"",""goteras"",""modisteria"",""albanil""}",4.2,10,19,santacruz,@maura71,+34 700 46 36 95,Disponible proximo dia,2025-03-12T23:35:33.960051
+33,Jacinta de Montenegro,"{""descargar"",""aseo"",""reparacion"",""musica"",""modisteria""}",4.2,8,80,Robledo,@riveroelena,+34859 77 77 36,Disponible ahora,2025-02-10T23:35:33.960051
+34,Miguel de Vizcaíno,"{""musica"",""plomero"",""mesero"",""descargar"",""oficios varios""}",4.9,3,79,envigado,@osureda,+34 849 88 34 62,Disponible proximo dia,2024-08-19T23:35:33.960051
+35,Nuria Carreño Flor,"{""mercado"",""pintura"",""reparacion"",""mesero"",""mecanico""}",4.4,1,47,guayabal,@gonzalezcaridad,+34984 737 495,En vacaciones,2025-04-08T23:35:33.960051
+36,Anacleto Tomás Cid,"{""goteras"",""mecanico""}",3.7,7,81,Robledo,@esteveznazaret,+34886837636,Ocupado 2 dias,2024-07-11T23:35:33.960051
+37,Roxana de Botella,"{""cantante"",""pintura"",""modisteria"",""plomero""}",4.3,5,54,Robledo,@pancho15,+34871 061 455,Disponible proximo dia,2024-10-12T23:35:33.961047
+38,Ismael de Ortega,"{""modisteria"",""descargar"",""Análisis de Datos"",""musica"",""plomero""}",3.9,6,52,Robledo,@npinilla,+34 820 754 195,Ocupado 2 dias,2025-04-19T23:35:33.961047
+39,Aurora Calatayud-Espada,"{""oficios varios"",""mercado""}",4.3,3,84,Poblado,@capdevilanicolas,+34823091085,Ocupado 2 dias,2024-11-06T23:35:33.961047
+40,Donato Luis Adán Gual,"{""albanil"",""escolta"",""musica"",""programador"",""reparacion""}",4.9,5,84,santacruz,@diegopozo,+34982 00 90 28,Ocupado 2 dias,2024-05-25T23:35:33.961047
+41,Santos Tena Torrent,"{""goteras"",""pintura"",""musica"",""plomero"",""cantante""}",3.9,3,66,itagui,@roviraciriaco,+34 987213093,Disponible ahora,2025-03-23T23:35:33.961047
+42,Estefanía de Buendía,"{""cocinero"",""cantante"",""escolta"",""musica""}",3.7,1,25,Poblado,@natalio98,+34 921783437,Disponible ahora,2024-07-09T23:35:33.961047
+43,Martín Palma Cardona,"{""mecanico"",""programador"",""mandados"",""musica"",""jardinero""}",3.7,9,42,Poblado,@jmarin,+34841 33 80 15,Ocupado 2 dias,2025-04-19T23:35:33.961047
+44,Miguela Jacinta Farré Herrero,"{""cantante"",""mandados"",""programador"",""oficios varios""}",4.9,9,49,itagui,@celestino03,+34944259313,Ocupado 2 dias,2024-05-28T23:35:33.961047
+45,Lucho Ferrero,"{""cantante"",""mesero"",""jardinero"",""mecanico""}",4.4,2,32,santacruz,@gomezteodosio,+34882709652,Disponible proximo dia,2024-08-25T23:35:33.961047
+46,María Teresa de Aranda,"{""mandados"",""reparacion"",""Análisis de Datos"",""descargar""}",4.6,10,35,Poblado,@salmeronlaura,+34814 83 56 07,En vacaciones,2025-03-09T23:35:33.961047
+47,Marita Araujo Palomo,"{""oficios varios"",""albanil"",""pintura"",""jardinero""}",4.6,10,42,envigado,@ameliatello,+34 875069719,Ocupado 2 dias,2025-01-06T23:35:33.961047
+48,Alfredo Aparicio Pelayo,"{""albanil"",""musica"",""jardinero""}",3.7,1,60,itagui,@galvanclementina,+34823 26 51 25,En vacaciones,2024-10-10T23:35:33.961047
+49,Micaela Cifuentes,"{""programador"",""pintura"",""reparacion"",""cantante"",""jardinero""}",3.5,4,87,santacruz,@octavioyuste,+34823 56 64 69,Disponible ahora,2024-09-13T23:35:33.961047
+50,Jessica Rosales Elías,"{""mercado"",""jardinero""}",4.1,7,80,envigado,@hgallo,+34 879579851,Disponible proximo dia,2025-02-13T23:35:33.961047
+51,Paola Juan-Barragán,"{""mercado"",""Análisis de Datos"",""cocinero"",""jardinero""}",3.5,2,96,itagui,@aitor30,+34975443783,Disponible ahora,2025-02-27T23:35:33.961047
+52,Alma Cases,"{""programador"",""pintura"",""escolta""}",4.3,1,37,itagui,@leonor45,+34 947059507,En vacaciones,2024-09-23T23:35:33.961047
+53,Ani Rebollo Barrena,"{""escolta"",""mesero"",""Análisis de Datos""}",4.3,2,47,guayabal,@felipalucas,+34928 79 64 22,Disponible ahora,2024-11-10T23:35:33.961047
+54,Luis Ángel Bermudez Cano,"{""mesero"",""jardinero"",""mercado"",""cantante"",""reparacion""}",3.7,9,33,Robledo,@ovidio09,+34 883 298 092,Ocupado 2 dias,2024-11-14T23:35:33.961047
+55,Nereida Romeu Gomila,"{""descargar"",""cocinero""}",4.6,10,91,guayabal,@lermamontserrat,+34 976545463,Ocupado 2 dias,2025-01-23T23:35:33.961047
+56,Perlita Aparicio,"{""escolta"",""cantante"",""mecanico"",""reparacion""}",3.8,5,55,santacruz,@fgargallo,+34 982 49 45 62,Ocupado 2 dias,2025-02-04T23:35:33.961047
+57,Dafne Juliá Ropero,"{""albanil"",""programador"",""cantante"",""musica""}",4.7,5,99,Castilla,@martin58,+34 966 86 96 04,En vacaciones,2024-11-26T23:35:33.961047
+58,Amado Vázquez Tena,"{""plomero"",""mandados"",""albanil"",""cocinero""}",4.3,1,91,santacruz,@maria-luisaalarcon,+34 900 23 70 37,Disponible proximo dia,2024-07-24T23:35:33.962043
+59,Bárbara Iñiguez,"{""cocinero"",""reparacion"",""mercado"",""descargar""}",3.9,4,71,envigado,@galvanamerico,+34 920 015 148,Disponible ahora,2024-05-30T23:35:33.962043
+60,Saturnina de Sánchez,"{""modisteria"",""mecanico""}",4.4,8,50,envigado,@vvilaplana,+34 941 240 609,Disponible ahora,2024-08-16T23:35:33.962043
+61,Juan Luis Eutimio Calvo Company,"{""mesero"",""mercado"",""aseo"",""Análisis de Datos""}",4.1,4,76,guayabal,@ufortuny,+34941 35 68 17,Ocupado 2 dias,2025-03-17T23:35:33.962043
+62,Ester Vanesa Barroso Aramburu,"{""mandados"",""Análisis de Datos"",""plomero""}",4.2,10,42,guayabal,@herrerozaida,+34987 705 957,En vacaciones,2024-07-10T23:35:33.962043
+63,Jesús Tovar Vallejo,"{""descargar"",""mandados""}",3.5,1,48,Castilla,@mgalan,+34 877 699 742,En vacaciones,2024-05-08T23:35:33.962043
+64,Marcela Vila-Escamilla,"{""descargar"",""programador"",""Análisis de Datos"",""musica""}",5.0,2,99,envigado,@lucia30,+34 828 07 32 04,Disponible proximo dia,2025-04-11T23:35:33.962043
+65,Alfredo Benavent-Llorens,"{""pintura"",""reparacion"",""escolta"",""programador""}",3.7,10,51,Robledo,@pedrocodina,+34827854389,En vacaciones,2025-03-29T23:35:33.962043
+66,Azucena Pombo Poza,"{""mecanico"",""mesero""}",4.3,4,43,Castilla,@luisinasilva,+34885785173,Disponible proximo dia,2025-01-18T23:35:33.962043
+67,Roxana Barrena Miguel,"{""goteras"",""mercado"",""oficios varios"",""cantante""}",4.0,1,20,Manrique,@estradaartemio,+34 945 666 401,Disponible ahora,2025-01-22T23:35:33.962043
+68,José Antonio Aparicio Ferrán,"{""albanil"",""plomero""}",4.7,10,65,envigado,@bayonagustina,+34878 338 796,En vacaciones,2024-07-01T23:35:33.962043
+69,Nacho Asensio-Dueñas,"{""albanil"",""modisteria"",""reparacion""}",4.1,4,84,santacruz,@cpelayo,+34 902 676 601,En vacaciones,2024-08-14T23:35:33.962043
+70,Cesar Clemente Pont,"{""programador"",""oficios varios"",""mercado"",""Análisis de Datos""}",4.4,6,84,Manrique,@nrobledo,+34841 55 10 78,Disponible ahora,2024-09-08T23:35:33.962043
+71,Candela Noelia Casanova Ros,"{""cocinero""}",4.4,4,63,santacruz,@yrecio,+34725 173 368,Disponible ahora,2024-09-13T23:35:33.962043
+72,Cosme Gual,"{""reparacion"",""albanil"",""escolta"",""plomero"",""mecanico""}",4.0,6,20,Manrique,@victoriamacias,+34848076912,Ocupado 2 dias,2024-12-03T23:35:33.962043
+73,Prudencio Valls Atienza,"{""cantante"",""albanil"",""oficios varios"",""mandados""}",4.9,2,42,guayabal,@edmundocasas,+34944 525 705,Disponible ahora,2025-01-23T23:35:33.962043
+74,Adoración Revilla Arias,"{""reparacion"",""goteras"",""aseo""}",4.8,1,29,Manrique,@leonel63,+34816 129 743,Disponible proximo dia,2024-05-14T23:35:33.962043
+75,Juanito Jordá-Mulet,"{""musica"",""mesero"",""descargar"",""escolta"",""goteras""}",4.0,6,72,guayabal,@angelitaalberola,+34987 36 86 53,Disponible proximo dia,2025-02-07T23:35:33.962043
+76,Cecilio Nacio Andrés Moll,"{""jardinero"",""plomero"",""musica""}",4.8,7,94,Poblado,@guadalupe54,+34981 34 25 44,Disponible proximo dia,2025-02-26T23:35:33.962043
+77,Bernarda Torralba Pardo,"{""oficios varios""}",3.5,6,79,itagui,@evitabenito,+34988 99 44 39,En vacaciones,2025-01-14T23:35:33.962043
+78,Efraín Recio,"{""mandados"",""aseo""}",4.6,9,56,Manrique,@mamen49,+34 900 23 44 99,Ocupado 2 dias,2024-12-28T23:35:33.962043
+79,Erasmo Sureda Tur,"{""mesero"",""musica""}",4.6,6,90,santacruz,@priscilafalco,+34 825379945,En vacaciones,2024-09-12T23:35:33.963040
+80,Manu Ballesteros Sáez,"{""oficios varios"",""cantante"",""pintura"",""cocinero""}",4.0,7,88,envigado,@geronimo56,+34876 738 439,Ocupado 2 dias,2024-06-13T23:35:33.963040
+81,Ximena Baquero Font,"{""mercado"",""cocinero"",""descargar""}",3.9,8,69,Robledo,@marcsarmiento,+34 958715387,En vacaciones,2024-09-15T23:35:33.963040
+82,Javiera Anguita Roura,"{""escolta"",""reparacion""}",4.4,2,20,itagui,@mrivero,+34 902 56 64 87,En vacaciones,2024-07-18T23:35:33.963040
+83,Dionisia Encarna Baena Cánovas,"{""goteras"",""pintura""}",4.7,4,57,Poblado,@chuybelmonte,+34841905354,Disponible proximo dia,2024-05-19T23:35:33.963040
+84,Carla de Andres,"{""albanil"",""mercado""}",4.3,2,24,santacruz,@verafernanda,+34827 111 233,En vacaciones,2025-04-17T23:35:33.963040
+85,Mario Cueto Soriano,"{""goteras"",""mesero"",""escolta""}",3.6,6,67,Manrique,@vanesaperalta,+34724 29 48 04,En vacaciones,2024-11-28T23:35:33.963040
+86,Lucas Leonardo Agullo Porras,"{""modisteria"",""goteras"",""mecanico""}",4.9,5,78,Poblado,@molinsbaudelio,+34973900852,En vacaciones,2024-05-02T23:35:33.963040
+87,Mireia Sedano Angulo,"{""cocinero""}",4.3,7,97,Poblado,@julie78,+34901 81 16 06,En vacaciones,2024-06-08T23:35:33.963040
+88,Ámbar de Julián,"{""reparacion"",""jardinero"",""cantante""}",3.9,5,68,santacruz,@losadaberto,+34 862 14 20 53,Disponible ahora,2024-11-24T23:35:33.963040
+89,Ale Tolosa,"{""programador"",""mercado"",""mesero"",""jardinero""}",4.5,5,65,itagui,@natalia73,+34 879024677,Ocupado 2 dias,2024-11-14T23:35:33.963040
+90,Yolanda Heras Acero,"{""musica"",""plomero"",""mandados""}",3.7,3,98,envigado,@gil93,+34872134904,En vacaciones,2024-10-12T23:35:33.963040
+91,Gerardo Cuéllar Naranjo,"{""aseo"",""cocinero"",""musica"",""Análisis de Datos""}",4.5,4,79,Castilla,@edmundo86,+34 868395013,Ocupado 2 dias,2024-06-17T23:35:33.963040
+92,Xavier Armengol Valle,"{""cantante"",""mesero"",""albanil"",""mecanico"",""oficios varios""}",3.8,4,15,itagui,@arinogema,+34920051008,Ocupado 2 dias,2025-02-26T23:35:33.963040
+93,Nilo del Peral,"{""reparacion""}",4.8,7,80,envigado,@cvigil,+34 957 33 59 48,En vacaciones,2024-08-20T23:35:33.963040
+94,Áurea Gelabert Diez,"{""mesero"",""mercado"",""aseo"",""cocinero"",""modisteria""}",4.7,2,59,Robledo,@manceboregulo,+34 858 16 90 97,Disponible ahora,2024-10-12T23:35:33.963040
+95,Almudena Perez-Nadal,"{""mesero"",""oficios varios"",""albanil"",""plomero"",""mecanico""}",3.7,6,23,envigado,@juan-antoniotalavera,+34926 65 97 76,Disponible ahora,2024-11-17T23:35:33.963040
+96,Encarnita Manrique Lerma,"{""mandados"",""aseo"",""pintura""}",3.8,2,89,Castilla,@ucoronado,+34 842850729,Ocupado 2 dias,2024-07-10T23:35:33.963904
+97,Sigfrido Sastre Mir,"{""goteras""}",3.7,8,100,guayabal,@brigidarincon,+34 917 97 69 02,Disponible ahora,2024-09-02T23:35:33.963931
+98,Eliana Mur Sancho,"{""jardinero""}",4.9,6,36,Robledo,@tbecerra,+34820 74 15 46,En vacaciones,2024-08-14T23:35:33.963931
+99,Matilde Martín-Jiménez,"{""modisteria"",""programador""}",3.8,9,95,envigado,@teruelazeneth,+34928 695 327,Ocupado 2 dias,2024-07-23T23:35:33.963931
+100,Isidro Arce Piñeiro,"{""cocinero"",""mecanico"",""mercado"",""musica"",""escolta""}",3.8,9,20,itagui,@victor96,+34944645731,Disponible proximo dia,2025-04-16T23:35:33.963931
